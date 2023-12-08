@@ -2,7 +2,7 @@
 This is display and touch screen boilerplate to use with Micropython on the ["CYD"](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display).
 
 Flash the CYD with Micropython ESP32 Generic.
-I suggest using the most current release.
+I suggest using the most current stable release, not a development release.
 [https://micropython.org/download/ESP32_GENERIC/](https://micropython.org/download/ESP32_GENERIC/)
 
 Clone this repo and upload the files to your board using Thonny, rshell or whatever IDE extension that can talk to the board.
